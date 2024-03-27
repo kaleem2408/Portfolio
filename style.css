@@ -24,7 +24,13 @@ body{
     align-items: center;
     z-index: 100;
 }
+/* .main-logo{
+    width: 100px;
+    padding-right: 10px;
+    
+} */
 .logo{
+    width: 55px;
     position: relative;
     font-size: 25px;
     color: #fff;
