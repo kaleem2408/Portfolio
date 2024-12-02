@@ -49,9 +49,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or questions regarding this portfolio, please feel free to contact me:
 
-- Email: [your_email@example.com](mailto:abdulkaleem84214@gmail.com)
-- LinkedIn [Your LinkedIn Profile](https://www.linkedin.com/in/shaikabdulkaleem6/)
-- GitHub: [Your GitHub Profile](https://github.com/kaleem2408)
+- Email: [My email Id](mailto:abdulkaleem84214@gmail.com)
+- LinkedIn [abdul kaleem](https://www.linkedin.com/in/shaikabdulkaleem6/)
+- GitHub: [Kaleem](https://github.com/kaleem2408)
 
 
 
